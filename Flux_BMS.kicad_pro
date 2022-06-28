@@ -365,7 +365,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -414,6 +414,62 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "8f77faa8-2d4a-4750-9ffd-4f5c63ff8509",
+      "LTC6811"
+    ],
+    [
+      "43238408-c14a-4969-969e-24a5cb13db84",
+      "Cell10"
+    ],
+    [
+      "ca2fd8b7-e4d3-419a-a0cc-a8b1f32d3e05",
+      "Cell9"
+    ],
+    [
+      "c84755cb-4efd-4cd9-b4c9-cbf2e492cb5c",
+      "Cell8"
+    ],
+    [
+      "352bcebc-141f-4980-89ba-bfb1b24112d5",
+      "Cell7"
+    ],
+    [
+      "a70777e6-274e-43dc-8ab2-341677ee02e6",
+      "Cell6"
+    ],
+    [
+      "1793262c-441a-404d-ae19-e3a969afc778",
+      "Cell5"
+    ],
+    [
+      "dc7deade-a415-46e9-8e3b-ca6a22283a67",
+      "Cell12"
+    ],
+    [
+      "07632588-aa67-4d0c-9f3c-c3871588eec8",
+      "Cell3"
+    ],
+    [
+      "5ef5832e-fd2c-40c0-b5ef-856d260e980d",
+      "Cell2"
+    ],
+    [
+      "500b541e-33b8-4e62-8c74-fa2a33c57f54",
+      "Cell1"
+    ],
+    [
+      "45a0372d-9c1c-4fa9-aab9-e92cd25047dc",
+      "Cell11"
+    ],
+    [
+      "3f4a3944-0f4e-4571-8bae-04a56b235eb1",
+      "STM32L476"
+    ],
+    [
+      "fb83b60f-7c1b-416f-a27e-b479a51fe4b2",
+      "Cell4"
     ]
   ],
   "text_variables": {}
