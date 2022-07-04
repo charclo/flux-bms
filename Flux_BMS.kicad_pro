@@ -486,6 +486,18 @@
     [
       "fb83b60f-7c1b-416f-a27e-b479a51fe4b2",
       "Cell4"
+    ],
+    [
+      "d1ff1df2-d8e3-4843-aa0a-b31e0b945c10",
+      "Charge_control"
+    ],
+    [
+      "9c497af3-364f-4c46-b99f-39abbdb865a9",
+      "CAN"
+    ],
+    [
+      "0ec0e43b-40b3-45e1-a43a-7849568eb283",
+      "Power"
     ]
   ],
   "text_variables": {}
