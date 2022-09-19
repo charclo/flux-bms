@@ -1,0 +1,59 @@
+,,,,,,,
+,,,,,,,
+Collated Components:,,,,,,,
+,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,LCSC
+1,14,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C18",1u,Device:C,Capacitor_SMD:C_0805_2012Metric,~, C52923
+2,1,C14,C,Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+3,2,"C15, C16",20p,Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+4,6,"C17, C19, C20, C21, C22, C28",100n,Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+5,1,C23,"4,7u",Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+6,2,"C24, C41",1u,Device:C,Capacitor_SMD:C_0402_1005Metric,~, C52923
+7,1,C25,470n,Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+8,2,"C26, C27",10n,Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+9,1,C29,100n,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,
+10,2,"C30, C32",2u2,Device:C,Capacitor_SMD:C_0805_2012Metric,~,
+11,1,C31,1n,Device:C,Capacitor_SMD:C_0805_2012Metric,~,C440004
+12,3,"C33, C38, C39",1u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,
+13,1,C34,2.2u/100V,Device:C_Small,Capacitor_SMD:C_1206_3216Metric,~,
+14,1,C35,220n,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,
+15,2,"C36, C37",22u,Device:C_Small,Capacitor_SMD:C_1206_3216Metric,~,C5672
+16,1,C40,10u,Device:C_Small,Capacitor_SMD:C_0805_2012Metric,~,
+17,1,C42,220n,Device:C,Capacitor_SMD:C_0805_2012Metric,~, C52923
+18,15,"D1, D3, D5, D7, D9, D11, D13, D15, D17, D19, D21, D23, D27, D32, D34",MMSZ5232BS,Device:D_Zener,Diode_SMD:D_SOD-323,~,C2845017
+19,18,"D2, D4, D6, D8, D10, D12, D14, D16, D18, D20, D22, D24, D25, D28, D29, D31, D33, D35",RED,Device:LED,LED_SMD:LED_0805_2012Metric,~,C84256
+20,1,D26,GREEN,Device:LED,LED_SMD:LED_0805_2012Metric,~,
+21,1,D30,D_Schottky,Device:D_Schottky,Diode_SMD:D_SOD-123,~,
+22,2,"J1, J2",Conn_01x02,Connector_Generic:Conn_01x02,Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical,~,
+23,1,J3,USB_C_Receptacle_USB2.0,Connector:USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,C2927038
+24,1,J4,CAN,Connector_Generic:Conn_01x02,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,~,
+25,2,"J5, J6",Conn_01x08,Connector_Generic:Conn_01x08,Connector_JST:JST_XH_B8B-XH-A_1x08_P2.50mm_Vertical,~,
+26,1,J7,Conn_01x05,Connector_Generic:Conn_01x05,Connector_JST:JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical,~,
+27,1,J8,Conn_01x05,Connector_Generic:Conn_01x05,Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical,~,
+28,1,L1,47u,Device:L,Inductor_SMD:L_Taiyo-Yuden_NR-50xx,~,
+29,15,"Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q16, Q17",BSS84,Transistor_FET:BSS84,Package_TO_SOT_SMD:SOT-23,http://assets.nexperia.com/documents/data-sheet/BSS84.pdf,C193020
+30,1,Q14,YJG30N06A,Device:Q_NMOS_SDG,FLUX-BMS:TRANS_BSC076N06NS3-G,~,C919593
+31,1,Q15,Q_NMOS_SDG,Device:Q_NMOS_SDG,FLUX-BMS:TRANS_BSC076N06NS3-G,~,
+32,2,"R1, R2",5k1,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+33,17,"R3, R7, R11, R15, R19, R23, R27, R31, R35, R39, R43, R47, R53, R65, R69, R70, R74",1k,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+34,16,"R4, R8, R12, R16, R20, R24, R28, R32, R36, R40, R44, R48, R54, R60, R71, R75",10k,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+35,15,"R5, R9, R13, R17, R21, R25, R29, R33, R37, R41, R45, R49, R55, R72, R76",33,Device:R,Resistor_SMD:R_2512_6332Metric,~,
+36,15,"R6, R10, R14, R18, R22, R26, R30, R34, R38, R42, R46, R50, R56, R73, R77",470,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+37,4,"R51, R52, R57, R58",100,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+38,1,R59,470k (was 520k),Device:R,Resistor_SMD:R_0805_2012Metric,~,
+39,1,R61,0.005,Device:R,Resistor_SMD:R_2512_6332Metric,~,C2903465
+40,2,"R62, R63",56,Device:R,Resistor_SMD:R_0805_2012Metric,~,C17757
+41,2,"R64, R67",100k,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+42,1,R66,1.6M,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+43,1,R68,31k6,Device:R,Resistor_SMD:R_0805_2012Metric,~,
+44,4,"TP1, TP2, TP3, TP4",TestPoint,Connector:TestPoint,FLUX-BMS:PAD,~,
+45,1,TP5,+5V,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,
+46,1,TP6,+3V3,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm,~,
+47,1,U1,BQ76940DBT,Battery_Management:BQ76940DBT,Package_SO:TSSOP-44_4.4x11.2mm_P0.5mm,http://www.ti.com/lit/ds/symlink/bq76940.pdf,C368606
+48,1,U2,STM32L476RGTx,MCU_ST_STM32L4:STM32L476RGTx,Package_QFP:LQFP-64_10x10mm_P0.5mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00108832.pdf,
+49,1,U3,BQ76200PW,Battery_Management:BQ76200PW,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,http://www.ti.com/lit/ds/symlink/bq76200.pdf, 	C2868795
+50,1,U4,INA180A2,FLUX_BMS:INA180,Package_TO_SOT_SMD:SOT-23-5,,C192764
+51,1,U5,TJA1051T-3,Interface_CAN_LIN:TJA1051T-3,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.nxp.com/documents/data_sheet/TJA1051.pdf,c58988
+52,1,U6,SY8502,FLUX_BMS:SY8502,Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm,,c87752
+53,1,U7,SE8533,FLUX_BMS:SE8533,Package_TO_SOT_SMD:SOT-89-3,,c58988
+54,1,X1,8MHz(16pF),Device:Crystal,Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm,~,
