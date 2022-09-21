@@ -502,16 +502,16 @@
       "CAN"
     ],
     [
-      "0ec0e43b-40b3-45e1-a43a-7849568eb283",
-      "Power"
-    ],
-    [
       "497a26da-8b1e-4bb2-bcf1-f7f1ed65cd77",
       "Cell14"
     ],
     [
       "fa235e93-bae4-466a-a281-8ac2950a3146",
       "Cell15"
+    ],
+    [
+      "7e318d42-3e09-4c30-96bb-0dfed0f758b6",
+      "Power"
     ]
   ],
   "text_variables": {}
